@@ -71,6 +71,10 @@ h1,h2,h3,h4,h5,h6,p,span,a{
     color: #fff;
     padding: 10px 20px;
 }
+.banner-div a:hover{
+    background-color:#e74c3c;
+    color: #fff;
+}
 /* service section  */
 /* top content  */
 .service-div{
